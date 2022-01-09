@@ -1,0 +1,31 @@
+10
+1#14.88
+2#39.99
+3#60.0
+4#19.99
+5#50.0
+6#14.99
+7#199.99
+8#27.0
+9#209.99
+10#399.99
+1#Jenga Classic Game
+2#Fire TVStick
+3#Fujifilm Instax Camera
+4#NativeJefferson Slip-On Sneakers
+5#Xbox Gift Card [Digital Code]
+6#Carhartt Men Acrylic Watch Hat A18
+7#Instant Pot Pressure Cooker
+8#Mellanni Bed Sheet Set
+9#iRobot Roomba 671
+10#Dyson V8 Absolute Vacuum
+1#50
+2#50
+3#50
+4#50
+5#50
+6#50
+7#50
+8#50
+9#50
+10#50
